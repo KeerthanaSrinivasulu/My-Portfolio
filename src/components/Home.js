@@ -37,8 +37,8 @@ function Home() {
         </p>
         <div className="cta-buttons">
           <a href="https://www.linkedin.com/in/keerthana20/" target="_blank" rel="noopener noreferrer" className="btn linkedin-btn">LinkedIn</a>
-          <a href="Keerthana_M_Srinivasulu_Software_Engineer.pdf" 
-   download="Keerthana_M_Srinivasulu_Software_Engineer.pdf" 
+          <a href="Resume_Keerthana (1).pdf" 
+   download="Resume_Keerthana (1).pdf" 
    className="btn resume-btn">
    Download Resume
 </a>
